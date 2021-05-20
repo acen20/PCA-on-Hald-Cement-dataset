@@ -1,9 +1,3 @@
-<style>
-  tr {
-    align : "center";
-    color : "red"
-  }
-</style>
 <h3>About Dataset</h3>
 <p>Publisher: Hald<br/>
 Row count: 13</p>
