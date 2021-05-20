@@ -1,7 +1,7 @@
 <h3>About Dataset</h3>
 <p>Publisher: Hald<br/>
 Row count: 13</p>
-<table style = "text-align:center">
+<table align="center">
   <tr>
     <td colspan="2">Columns</td>
   </tr>
