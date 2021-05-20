@@ -5,11 +5,11 @@ Row count: 13</p>
   <tr align="center">
     <td colspan="2">No. of Columns</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Input (x)</td>
     <td>Output (y)</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>4</td>
     <td>1</td>
   </tr>
